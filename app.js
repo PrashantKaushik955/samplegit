@@ -11,7 +11,8 @@ const app = express();
 
 app.use('/api/posts',postRoutes);
 app.use('/api/posts',postRoutes);
-12345
+1234
+12346
 
 const PORT = process.env.PORT;
 app.listen(PORT, () => {
